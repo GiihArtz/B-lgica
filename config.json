@@ -1,0 +1,54 @@
+{
+    "token": "",
+    "embedcolor" : "2f3136",
+    "relatoriolog" : "",
+    "batepontolog" : "",
+    "ausenciaLog": "",
+    "siglaguarnição" : "",
+
+    "AUSENCIA":{
+        "cargo_verificador":"",
+        "cargo_ausencia":""
+    },
+
+    "TICKET":{
+        "cargo": "",
+        "ticketlogs": "",
+        "categoria": ""
+    },
+
+
+    "ADVERTENCIAS": {
+        "advertanciacanal":"",
+        "exonerascanal": "",
+        "cargoadv_verbal":"",
+        "cargoadv_1":"",
+        "cargoadv_2":""
+    },
+    "HIERARQUIA": [
+       "CARGO ID",
+       "CARGO ID",
+       "CARGO ID",
+       "CARGO ID",
+       "CARGO ID",
+       "CARGO ID",
+       "CARGO ID",
+       "CARGO ID",
+       "CARGO ID",
+       "CARGO ID",
+       "CARGO ID",
+       "CARGO ID",
+       "CARGO ID",
+       "CARGO ID",
+       "CARGO ID",
+       "CARGO ID",
+       "CARGO ID",
+       "CARGO ID",
+       "CARGO ID"
+
+
+    ]
+
+}
+
+
